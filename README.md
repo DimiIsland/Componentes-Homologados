@@ -43,7 +43,7 @@ O objetivo deste repositório é manter um histórico organizado de componentes 
 ### Capacitores
 •	Os valores mais comuns são:
 
-•	10 a 33pf – Usado 2 junto com cristais osciladores em microcontroladores, ver datasheet do microcontrolador para recomendação de valores conforme frequência do cristal.
+•	10 a 33pf – Usado 2 de mesmo valor com cristais osciladores em microcontroladores, ver datasheet do microcontrolador para recomendação de valores conforme frequência do cristal.
 
 •	100nF – Filtrar ruídos genéricos.
 
