@@ -323,7 +323,7 @@ Este é um componente que tem uma zona de "resistência negativa". O 2N2646 foi 
 •	18F57Q80 –  128K Flash, 12K5 Ram, 1KEeprom, 5 USART, 44 I/Os, 43 ADCs de 12 bits
 
 ### Microcontroladores ST
-•	STM32F429ZIT6 – 180Mhz; 32 bits
+•	STM32F429ZIT6 – 180Mhz, 32 bits
 
 •	STM8S00SK6T6C – Usado no controle do No-break tipo UPS-Mini
 
