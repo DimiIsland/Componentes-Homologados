@@ -12,9 +12,9 @@ O objetivo deste repositório é manter um histórico organizado de componentes 
 
 •	330R - Resistor para coletor/emissor.
 
-•	390 - Resistor para coletor/emissor.
+•	390R - Resistor para coletor/emissor.
 
-•	470 - Resistor para coletor/emissor, forte pull-up para linhas I2C. E porque limita a corrente a aproximadamente ~1mA em 5V. 
+•	470R - Resistor para coletor/emissor, forte pull-up para linhas I2C. E porque limita a corrente a aproximadamente ~1mA em 5V. 
 
 •	560R - Resistor para coletor/emissor, forte pull-up para linhas I2C.
 
@@ -22,7 +22,7 @@ O objetivo deste repositório é manter um histórico organizado de componentes 
 
 •	1.2K - Divisores de tensão.
 
-•	1,5K - Divisores de tensão.
+•	1.5K - Divisores de tensão.
 
 •	2.2K - Divisores de tensão.
 
@@ -43,7 +43,7 @@ O objetivo deste repositório é manter um histórico organizado de componentes 
 ### Capacitores
 •	Os valores mais comuns são:
 
-•	10	até 33pf – Usado 2 junto com cristais osciladores em microcontroladores, ver datasheet do microcontrolador para recomendação de valores conforme frequência do cristal.
+•	10 a 33pf – Usado 2 junto com cristais osciladores em microcontroladores, ver datasheet do microcontrolador para recomendação de valores conforme frequência do cristal.
 
 •	100nF – Filtrar ruídos genéricos.
 
