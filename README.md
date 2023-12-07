@@ -1,5 +1,5 @@
 # Componentes Homologados
-O objetivo deste repositório é manter um histórico organizado de componentes homologados, a maioria já utilizados em diversos projetos por mim e outros vistos em outros projetos. Então devido à produção em grande quantidade da maioria desses componentes em diversos projetos, estou colocando-os numa lista de componentes testados e homologados.
+O objetivo deste repositório é manter um histórico organizado de componentes homologados, a maioria já utilizados em diversos projetos por mim e outros vistos em outros projetos. Então devido à produção em grande quantidade da maioria desses componentes em diversos projetos, estou colocando-os numa lista de componentes testados e homologados. Além de conter algumas dicas úteis ao dimensionar diversos componentes para o seu projeto.
 
 # Lista de componentes
 
