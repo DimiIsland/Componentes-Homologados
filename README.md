@@ -312,8 +312,6 @@ Este é um componente que tem uma zona de "resistência negativa". O 2N2646 foi 
 
 •	16F15324 - 7Kb flash, 512 Ram, 10ADs, XLP@1V8, 14 pinos
 
-•	16F877A- 40 pinos
-
 •	18F24K40 - 16K Flash, 1K Ram, 256 Eeprom, 25 I/Os, 28 Pinos
 
 •	18F45K50 - 32K_flash, 2K Ram, 256 EEprom, 1USB, 1 UART
@@ -323,9 +321,9 @@ Este é um componente que tem uma zona de "resistência negativa". O 2N2646 foi 
 •	18F57Q80 –  128K Flash, 12K5 Ram, 1KEeprom, 5 USART, 44 I/Os, 43 ADCs de 12 bits
 
 ### Microcontroladores ST
-•	STM32F429ZIT6 – 180Mhz, 32 bits
+•	STM32F429ZIT6 –  32 bits, High-performance advanced line, Arm Cortex-M4 core with DSP and FPU, 2 Mbytes of Flash memory, 180 MHz CPU, ART Accelerator, Chrom-ARTAccelerator, FMC with SDRAM, TFT,
 
-•	STM8S00SK6T6C – Usado no controle do No-break tipo UPS-Mini
+•	STM8S005K6 – 8-bit MCU, 16 MHz STM8S , 32-Kbyte Flash memory, data EEPROM, 10-bit ADC, timers, UART, SPI, I²C ( Usado no controle do No-break tipo UPS-Mini )
 
 ### Cristais
 •	32.768 Khz ( Muito usado para gerar a base de 1 segundo para o RTC interno dos microcontroladores ou como oscilador externo dos RTC’s ).
